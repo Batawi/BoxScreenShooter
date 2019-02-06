@@ -1,5 +1,5 @@
 # BoxScreenShooter
-Simple tool to make a screenshot of chosen part of the screen.
+Simple tool to make a screenshot of the selected part of the screen.
 To run it use python3.
 
 ## Usage
